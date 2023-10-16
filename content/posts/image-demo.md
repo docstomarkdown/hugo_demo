@@ -10,6 +10,6 @@ Thisa
 
 ## Subheading 1
 
-![alt text](/images/image_1.jpg)
+![alt text]({{ site.BaseURL }}/images/image_1.jpg)
 
 Image will be displayed from GitHub
