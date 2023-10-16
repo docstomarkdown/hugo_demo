@@ -1,5 +1,5 @@
 ---
-title: "About Us"
+title: "Image about us"
 date: 2023-10-11T10:00:00Z
 description: "Learn more about our company and mission."
 ---

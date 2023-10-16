@@ -1,5 +1,5 @@
 ---
-title: "About Us"
+title: "Image about us"
 date: 2023-10-11T10:00:00Z
 description: "Learn more about our company and mission."
 ---
@@ -20,7 +20,7 @@ Meet the talented individuals who make our company great.
 - Jane Smith: CTO
 - Bob Johnson: Lead Developer
 
-![alt text]({{ .Site.BaseURL }}/images/image_1.jpg)
+![alt text](/hugo_demo/images/image_1.jpg)
 
 For any inquiries, please [contact us](/contact/).
 
