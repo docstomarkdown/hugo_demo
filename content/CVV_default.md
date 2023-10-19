@@ -5,9 +5,9 @@
 
 [https://www.stackvihdya.com](https://www.stackvihdya.com) 
 
-# This is a heading
+# This is a heading for the updated file. 
 
-This is a text
+This is a text, this must be updated in the same file in Git. 
 
 ```
 This sentence is a full inline code sentence
