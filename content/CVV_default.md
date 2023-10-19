@@ -7,7 +7,7 @@
 
 # This is a heading for the updated file. 
 
-This is a text, this must be updated in the same file in Git. 
+This is a text, this must be updated in the same file in Git. Second Update to the same file.
 
 ```
 This sentence is a full inline code sentence
