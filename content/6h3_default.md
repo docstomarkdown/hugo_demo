@@ -54,13 +54,7 @@ This paragraph contains links. **[Link Anchor text](https://www.gdocstomarkdown.
 | Row 1 column 1 | Row 1 column 2 | Row 1 column 3 | Row 1 column 4 |
 | Row 2 column 1 | Row 2 column 2 | Row 2 column 3 | Row 2 column 4 |
 
-
-
-
-
-
-
-![a diagram of a cloud computing system shows the availability zone # 1](https://d30fizhqzdcokh.cloudfront.net/pRm-diagram-cloud-computing-system-shows-availability-zone-#-1.jpeg)
+THe below image is added with Hardcorded width. 
 
 ![Test image with the Width Size](https://d30fizhqzdcokh.cloudfront.net/1so-large-body-water-fence-around.jpeg | width=200)
 
