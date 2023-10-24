@@ -62,6 +62,7 @@ This paragraph contains links. **[Link Anchor text](https://www.gdocstomarkdown.
 
 ![a diagram of a cloud computing system shows the availability zone # 1](https://d30fizhqzdcokh.cloudfront.net/pRm-diagram-cloud-computing-system-shows-availability-zone-#-1.jpeg)
 
+![Test image with the Width Size](https://d30fizhqzdcokh.cloudfront.net/1so-large-body-water-fence-around.jpeg | width=200)
 
 ![a large body of water with a fence around it](https://d30fizhqzdcokh.cloudfront.net/1so-large-body-water-fence-around.jpeg)
 
@@ -70,4 +71,7 @@ This paragraph contains links. **[Link Anchor text](https://www.gdocstomarkdown.
 
 ![a screenshot of the google cloud billing page](https://d30fizhqzdcokh.cloudfront.net/iKu-screenshot-google-cloud-billing-page.jpeg)
 
-Definition list syntax (in a Google Doc):? Term starts with a question mark.: Definition here (starts with a leading colon).
+Definition list syntax (in a Google Doc):
+
+? Term starts with a question mark.
+: Definition here (starts with a leading colon).
