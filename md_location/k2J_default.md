@@ -74,7 +74,7 @@ This paragraph contains links. **[Link Anchor text](https://www.gdocstomarkdown.
 | Row 1 column 1 | Row 1 column 2 | Row 1 column 3 | Row 1 column 4 |
 | Row 2 column 1 | Row 2 column 2 | Row 2 column 3 | Row 2 column 4 |
 
-![](/image_location/CeD_Image_undefined.jpeg)
+![test](/image_location/CeD_Image_undefined.jpeg)
 
 
 
