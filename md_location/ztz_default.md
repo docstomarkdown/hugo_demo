@@ -1,6 +1,6 @@
 # Google Docs to GitHub oAuth Demo
 
-![](/image_location/5SA_Image_0.png)
+![](/image_location/HBn_Image_0.png)
 
 Author Info:
 
@@ -67,7 +67,7 @@ This paragraph contains links. **[Link Anchor text](https://www.gdocstomarkdown.
 | Row 1 column 1 | Row 1 column 2 | Row 1 column 3 | Row 1 column 4 |
 | Row 2 column 1 | Row 2 column 2 | Row 2 column 3 | Row 2 column 4 |
 
-![](/image_location/RCT_Image_1.jpeg)
+![boy playing soccer](/image_location/RCT_Image_1.jpeg)
 
 
 
