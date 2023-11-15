@@ -1,12 +1,8 @@
 # Google Docs to GitHub oAuth Demo
 
-![author icon](/image_location/lLm_Image_0.png)
+File after manual linking. 
 
-Author Info:
 
-**Name:** Vikram 
-**Organization:** Thinksolv technologies private limited
-**Country: **India
 
 
 Disclaimer: The information provided is for general informational purposes only. We make no warranties about the accuracy and completeness of the information. Use the information at your own risk.
@@ -67,7 +63,7 @@ This paragraph contains links. **[Link Anchor text](https://www.gdocstomarkdown.
 | Row 1 column 1 | Row 1 column 2 | Row 1 column 3 | Row 1 column 4 |
 | Row 2 column 1 | Row 2 column 2 | Row 2 column 3 | Row 2 column 4 |
 
-![boy with soccer](/image_location/9Oe_Image_1.jpeg)
+![](/md_location/0hj_Image_0.jpeg)
 
 
 
