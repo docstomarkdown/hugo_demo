@@ -9,12 +9,12 @@ File after manual linking.
 
 
 
-![image 1](/default image location/AXx-image-1.png)
+![image 1](/default%20image%20location/AXx-image-1.png)
 
 
-![](/default image location/98H_Image_1.png)
+![](/default%20image%20location/98H_Image_1.png)
 
-![](/default image location/6XV_Image_2.png)
+![](/default%20image%20location/6XV_Image_2.png)
 
 Author Info:
 
@@ -83,7 +83,7 @@ This paragraph contains links. **[Link Anchor text](https://www.gdocstomarkdown.
 | Row 1 column 1 | Row 1 column 2 | Row 1 column 3 | Row 1 column 4 |
 | Row 2 column 1 | Row 2 column 2 | Row 2 column 3 | Row 2 column 4 |
 
-![](/default image location/HBb_Image_3.jpeg)
+![](/default%20image%20location/HBb_Image_3.jpeg)
 
 
 
