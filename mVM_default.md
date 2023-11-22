@@ -10,14 +10,14 @@ File after manual linking.
 
 
 
-![](/default image location/Wy6_Image_1.png)
+![](/default%20image%20location/Wy6_Image_1.png)
 
 Author Info:
 
-**Name:** Vikram \
-\
-\
-\
+**Name:** Vikram  \
+ \
+ \
+ \
 
 
 **Organization:** Thinksolv technologies private limited
@@ -99,6 +99,6 @@ This paragraph contains links. **[Link Anchor text](https://www.gdocstomarkdown.
 | Row 1 column 1 | Row 1 column 2 | Row 1 column 3 | Row 1 column 4 |
 | Row 2 column 1 | Row 2 column 2 | Row 2 column 3 | Row 2 column 4 |
 
-![](/default image location/AGb_Image_2.jpeg)
+![](/default%20image%20location/AGb_Image_2.jpeg)
 
 Definition list syntax (in a Google Doc):
