@@ -15,11 +15,9 @@ File after manual linking.
 Author Info:
 
 **Name:** Vikram  \
- \
- \
-   
- \
-
+\
+\
+\
 
 **Organization:** Thinksolv technologies private limited
 
