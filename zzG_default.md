@@ -14,7 +14,9 @@ File after manual linking.
 
 
 
+
 ![image 1](/default%20image%20location/nvv-image-1.png)	
+
 
 
 
@@ -28,7 +30,9 @@ Author Info:
 
 
 
+
 **Name:** Vikram 
+
 
 
 
@@ -42,9 +46,12 @@ Author Info:
 
 **Organization:** Thinksolv technologies private limited
 
+
 **Country:** India
 
+
 You can find more about author [here](https://twitter.com/).
+
 
 ![](/default%20image%20location/bW3_Image_1.png)
 
@@ -58,13 +65,18 @@ Author Info:
 
 
 
+
 **Name:** Vikram 
+
 
 **Organization:** Thinksolv technologies private limited
 
+
 **Country: **India
 
+
 You can find more about author [here](https://twitter.com/).
+
 
 
 
@@ -76,11 +88,14 @@ Disclaimer: The information provided is for general informational purposes only.
 
 
 
+
 ## This is a heading for the updated file. 
 
 
 
+
 This is a text, this must be updated in the same file in Git. Second Update to the same file. 
+
 
 
 
@@ -91,21 +106,29 @@ This sentence is full of inline code
 
 ## This is heading 2
 
+
 ### This is heading 3
+
 
 #### This is heading 4
 
+
 ##### This is heading 5
+
 
 <h6>This is heading 6</h6>
 
 
 
+
 The **following** are `ordered` ***list*** *items*
+
 
 1. List item 1
 
+
 2. List **item** 2
+
 
 3. List *item* 3
 
@@ -113,7 +136,9 @@ The **following** are `ordered` ***list*** *items*
 
 
 
+
 The **following** are unordered ***list*** *items*
+
 
 - *Unordered list item 1*
 
@@ -127,7 +152,9 @@ This is a sentence with a superscript. Mc^2^
 
 
 
+
 This is a sentence with a subscript. mc~2~
+
 
 
 
@@ -149,7 +176,9 @@ This sentence contains `inline` code.
 
 
 
+
 This is a sentence with ?smart quotes?
+
 
 
 
@@ -157,7 +186,9 @@ This is a sentence with **~~strike through~~** words.
 
 
 
+
 This sentence contains a **bold** and an *italic* and an <span style="text - decoration: underline;">underline</span> word and a partial [hyperlink](https://en.wikipedia.org/wiki/HTTP). 
+
 
 
 
@@ -166,6 +197,7 @@ This sentence contains a **bold** and an *italic* and an <span style="text - dec
 
 
 This paragraph contains links. **[Link Anchor text](https://www.gdocstomarkdown.com/)**
+
 
 
 
@@ -193,4 +225,9 @@ This paragraph contains links. **[Link Anchor text](https://www.gdocstomarkdown.
 
 
 Definition list syntax (in a Google Doc):
+
+
+
+
+
 
