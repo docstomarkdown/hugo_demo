@@ -1,16 +1,16 @@
----
-title: Google Docs to GitHub oAuth Demo2
-date: 2023-11-20
-draft: false
-slug: google-docs-to-github-oauth-demo
----
 # Google Docs to GitHub oAuth Demo2
 
-File after manual linking.
+File after manual linking. 
+
+	
 
 
 
-![](/default%20image%20location/Wy6_Image_1.png)
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image1.png "image_tooltip")
+
 
 Author Info:
 
@@ -38,67 +38,110 @@ You can find more about author [here](https://twitter.com/).
 
 Disclaimer: The information provided is for general informational purposes only. We make no warranties about the accuracy and completeness of the information. Use the information at your own risk.
 
-## This is a heading for the updated file.
 
-This is a text, this must be updated in the same file in Git. Second Update to the same file.
+## This is a heading for the updated file. 
+
+This is a text, this must be updated in the same file in Git. Second Update to the same file. 
+
 
 ```
 This sentence is full of inline code
 ```
 
+
+
 ## This is heading 2
+
 
 ### This is heading 3
 
+
 #### This is heading 4
+
 
 ##### This is heading 5
 
-<h6>This is heading 6</h6>
+&lt;h6>This is heading 6&lt;/h6>
 
-The **following** are `ordered` ***list*** *items*
+The **following** are `ordered` **_list_** _items_
+
+
 
 1. List item 1
-
 2. List **item** 2
+3. List _item_ 3
 
-3. List *item* 3
+The **following** are unordered **_list_** _items_
 
-The **following** are unordered ***list*** *items*
 
-- *Unordered list item 1*
 
-- *Unordered list item 2*
+* _Unordered list item 1_
+* _Unordered list item 2_
+* _Unordered list item 3_
 
-- *Unordered list item 3*
+This is a sentence with a superscript. Mc<sup>2</sup>
 
-This is a sentence with a superscript. Mc^2^
+This is a sentence with a subscript. mc<sub>2</sub>
 
-This is a sentence with a subscript. mc~2~
+**This is a full bold paragraph. **
 
-**This is a full bold paragraph.**
+_This is a full Italic paragraph.  _
 
-*This is a full Italic paragraph.*
-
-***This is a full bold and Italic paragraph.***
+**_This is a full bold and Italic paragraph._**
 
 This sentence contains `inline` code. 
 
-This is a sentence with ?smart quotes?
+This is a sentence with “smart quotes”
 
 This is a sentence with **~~strike through~~** words.
 
-This sentence contains a **bold** and an *italic* and an <span style="text - decoration: underline;">underline</span> word and a partial [hyperlink](https://en.wikipedia.org/wiki/HTTP). 
+This sentence contains a **bold** and an _italic_ and an <span style="text-decoration:underline;">underline</span> word and a partial [hyperlink](https://en.wikipedia.org/wiki/HTTP). 
 
 [This sentence is a full Hypher link.](https://en.wikipedia.org/wiki/Hyperlink)
 
 This paragraph contains links. **[Link Anchor text](https://www.gdocstomarkdown.com/)**
 
-| Header 1 | Header 2 | Header 3 | Header 4 |
-| --- |  --- |  --- |  --- | 
-| Row 1 column 1 | Row 1 column 2 | Row 1 column 3 | Row 1 column 4 |
-| Row 2 column 1 | Row 2 column 2 | Row 2 column 3 | Row 2 column 4 |
 
-![](/default%20image%20location/AGb_Image_2.jpeg)
+<table>
+  <tr>
+   <td>Header 1
+   </td>
+   <td>Header 2
+   </td>
+   <td>Header 3
+   </td>
+   <td>Header 4
+   </td>
+  </tr>
+  <tr>
+   <td>Row 1 column 1
+   </td>
+   <td>Row 1 column 2
+   </td>
+   <td>Row 1 column 3
+   </td>
+   <td>Row 1 column 4
+   </td>
+  </tr>
+  <tr>
+   <td>Row 2 column 1
+   </td>
+   <td>Row 2 column 2
+   </td>
+   <td>Row 2 column 3
+   </td>
+   <td>Row 2 column 4
+   </td>
+  </tr>
+</table>
 
-Definition list syntax (in a Google Doc):
+
+
+
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image2.jpg "image_tooltip")
+
+
+Definition list syntax (in a Google Doc): \
