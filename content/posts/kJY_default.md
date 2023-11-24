@@ -1,9 +1,3 @@
----
-title: Google Docs to GitHub oAuth Demo
-date: 2023-11-23
-draft: false
-slug: google-docs-to-github-oauth-demo2
----
 # Google Docs to GitHub oAuth Demo
 
 File after manual linking.
