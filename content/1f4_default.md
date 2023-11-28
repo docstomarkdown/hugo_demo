@@ -2,9 +2,9 @@
 
 File after manual linking.
 
-![a field of tall grass with the sun shining through it](https://d1qrqm19u9sopz.cloudfront.net/192982/GMw-field-tall-grass-sun-shining.jpeg)
+![a field of tall grass with the sun shining through it](/images/mko-field-tall-grass-sun-shining.png)
 
-![autumn leaves are laying on the ground in a park](https://d1qrqm19u9sopz.cloudfront.net/192982/Uo5-autumn-leaves-laying-ground-park.jpeg)
+![autumn leaves are laying on the ground in a park](/images/f9R-autumn-leaves-laying-ground-park.png)
 
 
 
