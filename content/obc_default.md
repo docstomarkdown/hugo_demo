@@ -1,6 +1,6 @@
 # Google Docs to GitHub oAuth Demo
 
-![](/images/2Dl_Image_1.png)
+![a field of tall grass with the sun shining through it](/images/2Dl_Image_1.png)
 
 File after manual linking.
 
