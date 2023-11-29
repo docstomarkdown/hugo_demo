@@ -1,10 +1,8 @@
 # Google Docs to GitHub oAuth Demo
 
+![](/images/2Dl_Image_1.png)
+
 File after manual linking.
-
-![a field of tall grass with the sun shining through it](/images/uLX-field-tall-grass-sun-shining.png)
-
-![autumn leaves are laying on the ground in a park](/images/cU9-autumn-leaves-laying-ground-park.png)
 
 
 
