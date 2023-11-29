@@ -1,7 +1,5 @@
 # Google Docs to GitHub oAuth Demo
 
-![a field of tall grass with the sun shining through it](https://d1qrqm19u9sopz.cloudfront.net/192982/u3y-field-tall-grass-sun-shining.jpeg)
-
 File after manual linking.
 
 
