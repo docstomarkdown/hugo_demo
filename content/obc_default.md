@@ -1,6 +1,6 @@
 # Google Docs to GitHub oAuth Demo
 
-![a field of tall grass with the sun shining through it](/images/2Dl_Image_1.png)
+![a field of tall grass with the sun shining through it](https://d1qrqm19u9sopz.cloudfront.net/192982/u3y-field-tall-grass-sun-shining.jpeg)
 
 File after manual linking.
 
@@ -93,6 +93,6 @@ This paragraph contains links. **[Link Anchor text](https://www.gdocstomarkdown.
 | Row 1 column 1 | Row 1 column 2 | Row 1 column 3 | Row 1 column 4 |
 | Row 2 column 1 | Row 2 column 2 | Row 2 column 3 | Row 2 column 4 |
 
-![a boy in a yellow shirt and red shorts is kicking a soccer ball](https://d1qrqm19u9sopz.cloudfront.net/192982/7721e125-3989-481e-96f4-b7f058883839.jpeg)
+![a boy in a yellow shirt and red shorts is kicking a soccer ball](https://d1qrqm19u9sopz.cloudfront.net/192982/1so-boy-yellow-shirt-red-shorts-kicking-soccer-ball.jpeg)
 
 Definition list syntax (in a Google Doc):
