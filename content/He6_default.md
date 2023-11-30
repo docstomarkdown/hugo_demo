@@ -1,10 +1,9 @@
 ---
-title: Google Docs to GitHub oAuth Demo
+title: Google Docs to GitHub oAuth Demo front matter update
 date: 2023-11-30
 draft: false
 slug: google-docs-to-github-oauth-demo
 ---
-
 # Google Docs to GitHub oAuth Demo
 
 ### Author information
