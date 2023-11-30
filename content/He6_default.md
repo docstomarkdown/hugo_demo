@@ -69,7 +69,7 @@ This paragraph contains links. **[Link Anchor text](https://www.gdocstomarkdown.
 | Row 1 column 1 | Row 1 column 2 | Row 1 column 3 | Row 1 column 4 |
 | Row 2 column 1 | Row 2 column 2 | Row 2 column 3 | Row 2 column 4 |
 
-![a boy in a yellow shirt and red shorts is kicking a soccer ball](/images/Opg-boy-yellow-shirt-red-shorts-kicking-soccer-ball.jpeg)
+![a boy in a yellow shirt and red shorts is kicking a soccer ball](https://d1qrqm19u9sopz.cloudfront.net/192982/Jwe-boy-yellow-shirt-red-shorts-kicking-soccer-ball.jpeg)
 
 Definition list syntax (in a Google Doc):
 
@@ -79,4 +79,4 @@ Name: Vikram
 
 Company: Thinksolv technologies private limited
 
-![a blue icon shows a piece of paper and a pen](/images/FYa-blue-icon-shows-piece-paper-pen.png)
+![a blue icon shows a piece of paper and a pen](https://d1qrqm19u9sopz.cloudfront.net/192982/Bop-blue-icon-shows-piece-paper-pen.png)
