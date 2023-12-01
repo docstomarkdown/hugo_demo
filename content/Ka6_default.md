@@ -12,7 +12,7 @@ Name: Vikram
 
 Company: Thinksolv technologies private limited
 
-![pen and paper](https://d3gf5wsgt7m4.cloudfront.net/NaN/NLI-pen-paper.png)
+![pen and paper](https://d3gf5wsgt7m4.cloudfront.net/FREE_LICENSE/bct-pen-paper.png)
 
 Disclaimer: The information provided is for general informational purposes only. We make no warranties about the accuracy and completeness of the information. Use the information at your own risk.
 
@@ -77,7 +77,7 @@ This paragraph contains links. **[Link Anchor text](https://www.gdocstomarkdown.
 | Row 1 column 1 | Row 1 column 2 | Row 1 column 3 | Row 1 column 4 |
 | Row 2 column 1 | Row 2 column 2 | Row 2 column 3 | Row 2 column 4 |
 
-![a boy in a yellow shirt and red shorts is kicking a soccer ball](https://d3gf5wsgt7m4.cloudfront.net/NaN/pgH-boy-yellow-shirt-red-shorts-kicking-soccer-ball.jpeg)
+![a boy in a yellow shirt and red shorts is kicking a soccer ball](https://d3gf5wsgt7m4.cloudfront.net/FREE_LICENSE/4MW-boy-yellow-shirt-red-shorts-kicking-soccer-ball.jpeg)
 
 Definition list syntax (in a Google Doc):
 
