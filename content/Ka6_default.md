@@ -1,18 +1,28 @@
-# Google Docs to GitHub oAuth Demo
+# Google Docs to Markdown Pro Demo
 
-### Author information
+Docs to Markdown Pro is a powerful and easy-to-use tool that can help technical writers, bloggers, and other content creators write content in rich text format using Google Docs and publish them as high-quality Markdown or HTML documents.
 
-Name: Vikram
+The tool offers a number of features that make it a valuable tool for technical writers, bloggers, and other content creators. These features include:
 
-Company: Thinksolv technologies private limited
+- Customization of the emphasis character, either an underscore (`_`) or an asterisk (`*`)
 
-### Author information
+- Saving the converted text to the user's Google Drive
 
-Name: Vikram
+- Download the converted text as a file to local directory
 
-Company: Thinksolv technologies private limited
+- Automatic generation of image captions using artificial intelligence.
 
-![pen and paper](https://d3gf5wsgt7m4.cloudfront.net/FREE_LICENSE/NUH-pen-paper.png)
+- Hosting of images on the AWS cloud, with the URLs in the Markdown being updated automatically. This eliminates the need for users to manually download images and upload them to their servers, and then update the paths in the Markdown
+
+- Conversion of Google Docs into Markdown format with a single click
+
+- Publishing of Markdown to a GitHub repository with a single click
+
+- Automatic generation of FrontMatter specific to static site generators such as Jekyll, Hugo, and Read the Docs
+
+## Snippet Library
+
+The snippet library provides a means for users to add reusable snippets to documents. Snippets can be created in the rich text format, including images. Once created, snippets can be inserted into documents with a single click, saving time and effort.
 
 Disclaimer: The information provided is for general informational purposes only. We make no warranties about the accuracy and completeness of the information. Use the information at your own risk.
 
