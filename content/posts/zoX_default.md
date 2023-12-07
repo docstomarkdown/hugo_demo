@@ -22,13 +22,13 @@ There are many different SSGs available, each with its own strengths and weaknes
 
 - Eleventy: A modern and lightweight SSG that is perfect for small websites.
 
-![a boy in a yellow shirt and red shorts is kicking a soccer ball](https://d3gf5wsgt7m4.cloudfront.net/FREE_LICENSE/QUs-boy-yellow-shirt-red-shorts-kicking-soccer-ball.jpeg)
+![a boy in a yellow shirt and red shorts is kicking a soccer ball](/static/images/d0s-boy-yellow-shirt-red-shorts-kicking-soccer-ball.jpeg)
 
 ## Hosting with GitHub Pages
 
 GitHub Pages is a free service that allows you to host static websites on GitHub. It's a great way to get your website up and running quickly and easily, and it integrates seamlessly with most SSGs.
 
-![a cat is in a circle on a dark background .](https://d3gf5wsgt7m4.cloudfront.net/FREE_LICENSE/LBM-cat-circle-dark-background-..jpeg)
+![a cat is in a circle on a dark background ](/static/images/VoC-cat-circle-dark-background-.jpeg)
 
 Here's how to use an SSG with GitHub Pages to host your website for free:
 
@@ -48,7 +48,7 @@ Here's how to use an SSG with GitHub Pages to host your website for free:
 
 ## Benefits of Using SSGs with GitHub Pages
 
-![a field of tall grass with the sun shining through it](https://d3gf5wsgt7m4.cloudfront.net/FREE_LICENSE/0Aa-field-tall-grass-sun-shining.jpeg)
+![a field of tall grass with the sun shining through it](/static/images/7WU-field-tall-grass-sun-shining.png)
 
 Here are some of the benefits of using a static site generator with GitHub Pages:
 
