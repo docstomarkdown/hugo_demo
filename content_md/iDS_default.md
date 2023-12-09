@@ -132,3 +132,19 @@ Name: Vikram
 Company: Thinksolv technologies private limited
 
 ![black and white chess pieces on a black and white board](https://d3gf5wsgt7m4.cloudfront.net/FREE_LICENSE/7YF-black-white-chess-pieces-black-white-board.jpeg)
+
+### Author information
+
+Name: Vikram
+
+Company: Thinksolv technologies private limited
+
+### Author information
+
+Name: Vikram
+
+Company: Thinksolv technologies private limited
+
+![pen and paper](https://d1qrqm19u9sopz.cloudfront.net/201916/O0x-pen-paper.png)
+
+![pen and paper](https://d1qrqm19u9sopz.cloudfront.net/201916/Z3I-pen-paper.png)
