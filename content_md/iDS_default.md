@@ -121,7 +121,7 @@ This paragraph contains links. **[Link Anchor text](https://www.gdocstomarkdown.
 | Row 1 column 1 | Row 1 column 2 | Row 1 column 3 | Row 1 column 4 |
 | Row 2 column 1 | Row 2 column 2 | Row 2 column 3 | Row 2 column 4 |
 
-![a boy in a yellow shirt and red shorts is kicking a soccer ball](/images/QxJ-boy-yellow-shirt-red-shorts-kicking-soccer-ball.jpeg)
+![a boy in a yellow shirt and red shorts is kicking a soccer ball](/images/STP-boy-yellow-shirt-red-shorts-kicking-soccer-ball.jpeg)
 
 Definition list syntax (in a Google Doc):
 
@@ -131,7 +131,7 @@ Name: Vikram
 
 Company: Thinksolv technologies private limited
 
-![black and white chess pieces on a black and white board](/images/YF7-black-white-chess-pieces-black-white-board.jpeg)
+![black and white chess pieces on a black and white board](/images/14X-black-white-chess-pieces-black-white-board.jpeg)
 
 ### Author information
 
@@ -145,6 +145,6 @@ Name: Vikram
 
 Company: Thinksolv technologies private limited
 
-![pen and paper](/images/Lzn-pen-paper.png)
+![pen and paper](/images/NW7-pen-paper.png)
 
-![pen and paper](/images/8Rn-pen-paper.png)
+![pen and paper](/images/E6i-pen-paper.png)
