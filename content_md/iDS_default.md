@@ -8,7 +8,7 @@ Conversion & Publishing:
 
 - Easy Google Docs to Markdown: Convert instantly with a single click.
 
-- Customise emphasis characters: Choose between asterisks (*) or underscores (_) for __bold__ or _italic_ text, tailoring your formatting to your preference.
+- Customise emphasis characters: Choose between asterisks (*) or underscores (_) for **bold** or *italic* text, tailoring your formatting to your preference.
 
 - Demote Headings: Adjust heading levels for a cleaner Markdown structure.
 
@@ -78,50 +78,49 @@ This sentence is full of inline code
 
 <h6>This is heading 6</h6>
 
-The __following__ are `ordered` ___list___ _items_
+The **following** are `ordered` ***list*** *items*
 
 1. List item 1
 
-2. List __item__ 2
+2. List **item** 2
 
-3. List _item_ 3
+3. List *item* 3
 
-The __following__ are unordered ___list___ _items_
+The **following** are unordered ***list*** *items*
 
-- _Unordered list item 1_
+- *Unordered list item 1*
 
-- _Unordered list item 2_
+- *Unordered list item 2*
 
-- _Unordered list item 3_
+- *Unordered list item 3*
 
 This is a sentence with a superscript. Mc^2^
 
 This is a sentence with a subscript. mc~2~
 
-__This is a full bold paragraph.__
+**This is a full bold paragraph.**
 
-_This is a full Italic paragraph._
+*This is a full Italic paragraph.*
 
-___This is a full bold and Italic paragraph.___
+***This is a full bold and Italic paragraph.***
 
 This sentence contains `inline` code. 
 
 This is a sentence with ?smart quotes?
 
-This is a sentence with __~~strike through~~__ words.
+This is a sentence with **~~strike through~~** words.
 
-This sentence contains a __bold__ and an _italic_ and an <span style="text - decoration: underline;">underline</span> word and a partial [hyperlink](https://en.wikipedia.org/wiki/HTTP). 
+This sentence contains a **bold** and an *italic* and an <span style="text - decoration: underline;">underline</span> word and a partial [hyperlink](https://en.wikipedia.org/wiki/HTTP). 
 
 [This sentence is a full Hypher link.](https://en.wikipedia.org/wiki/Hyperlink)
 
-This paragraph contains links. __[Link Anchor text](https://www.gdocstomarkdown.com/)__
+This paragraph contains links. **[Link Anchor text](https://www.gdocstomarkdown.com/)**
 
 | Header 1 | Header 2 | Header 3 | Header 4 |
 | --- |  --- |  --- |  --- | 
 | Row 1 column 1 | Row 1 column 2 | Row 1 column 3 | Row 1 column 4 |
 | Row 2 column 1 | Row 2 column 2 | Row 2 column 3 | Row 2 column 4 |
 
-![a boy in a yellow shirt and red shorts is kicking a soccer ball](https://d3gf5wsgt7m4.cloudfront.net/FREE_LICENSE/pXQ-boy-yellow-shirt-red-shorts-kicking-soccer-ball.jpeg)
 
 Definition list syntax (in a Google Doc):
 
@@ -131,7 +130,6 @@ Name: Vikram
 
 Company: Thinksolv technologies private limited
 
-![black and white chess pieces on a black and white board](https://d3gf5wsgt7m4.cloudfront.net/FREE_LICENSE/7YF-black-white-chess-pieces-black-white-board.jpeg)
 
 ### Author information
 
@@ -145,6 +143,4 @@ Name: Vikram
 
 Company: Thinksolv technologies private limited
 
-![pen and paper](https://d1qrqm19u9sopz.cloudfront.net/201916/O0x-pen-paper.png)
 
-![pen and paper](https://d1qrqm19u9sopz.cloudfront.net/201916/Z3I-pen-paper.png)
