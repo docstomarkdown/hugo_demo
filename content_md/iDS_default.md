@@ -1,3 +1,9 @@
+---
+title: Docs to Markdown Pro Write efficiently, publish seamlessly.
+date: 2023-11-30
+draft: false
+slug: google-docs-to-github-oauth-demo
+---
 # Docs to Markdown Pro: Write efficiently, publish seamlessly.
 
 Create beautiful and functional content with Docs to Markdown Pro. Easily convert your Google Docs to clean Markdown and publish them directly to GitHub.
