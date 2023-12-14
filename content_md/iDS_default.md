@@ -127,7 +127,7 @@ This paragraph contains links. **[Link Anchor text](https://www.gdocstomarkdown.
 | Row 1 column 1 | Row 1 column 2 | Row 1 column 3 | Row 1 column 4 |
 | Row 2 column 1 | Row 2 column 2 | Row 2 column 3 | Row 2 column 4 |
 
-![](/images/TDc_Image_1.jpeg)
+![](https://d3gf5wsgt7m4.cloudfront.net/FREE_LICENSE/MUI_Image_1.jpeg)
 
 Definition list syntax (in a Google Doc):
 
@@ -137,7 +137,7 @@ Name: Vikram
 
 Company: Thinksolv technologies private limited
 
-![](/images/PX6_Image_1.jpeg)
+![](https://d3gf5wsgt7m4.cloudfront.net/FREE_LICENSE/zr6_Image_1.jpeg)
 
 ### Author information
 
@@ -151,6 +151,6 @@ Name: Vikram
 
 Company: Thinksolv technologies private limited
 
-![](/images/lNR_Image_1.png)
+![](https://d3gf5wsgt7m4.cloudfront.net/FREE_LICENSE/p6U_Image_1.png)
 
-![](/images/YWR_Image_1.png)
+![](https://d3gf5wsgt7m4.cloudfront.net/FREE_LICENSE/NTn_Image_1.png)
