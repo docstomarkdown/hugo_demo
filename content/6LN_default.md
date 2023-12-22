@@ -28,6 +28,8 @@ Image Management:
 
 ![](/images/WvR_Image_1.png)
 
+- [https://github.com/docstomarkdown/hugo_demo/blob/main/images/WvR_Image_1.png](null)
+
 - Automatic Image Hosting on AWS Cloud:
 
 - Optimize storage and access for your images.
@@ -61,6 +63,8 @@ Benefits:
 Start creating and publishing like a pro today!
 
 ![](/images/znw_Image_1.png)
+
+[https://github.com/docstomarkdown/hugo_demo/blob/main/images/znw_Image_1.png](https://github.com/docstomarkdown/hugo_demo/blob/main/images/znw_Image_1.png)
 
 Disclaimer: The information provided is for general informational purposes only. We make no warranties about the accuracy and completeness of the information. Use the information at your own risk.
 
