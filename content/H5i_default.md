@@ -28,7 +28,7 @@ Image Management:
 
 [https://github.com/docstomarkdown/hugo_demo/blob/main/images/MLD_Image_1.png](null)
 
-![](//images/MLD_Image_1.png)
+![](/images/MLD_Image_1.png)
 
 - Automatic Image Hosting on AWS Cloud:
 
@@ -64,7 +64,7 @@ Start creating and publishing like a pro today!
 
 [https://github.com/docstomarkdown/hugo_demo/blob/main/images/ysN_Image_1.png](null)
 
-![](//images/ysN_Image_1.png)
+![](/images/ysN_Image_1.png)
 
 Disclaimer: The information provided is for general informational purposes only. We make no warranties about the accuracy and completeness of the information. Use the information at your own risk.
 
