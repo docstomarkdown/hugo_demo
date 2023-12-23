@@ -26,7 +26,7 @@ Snippets Library:
 
 Image Management:
 
-![Grass](/images/WYV-grass.png)
+![a field of tall grass with the sun shining through it](/images/J4E-field-tall-grass-sun-shining.png)
 
 - [https://gitlab.com/thinksolv/docstomarkdownpro/-/blob/fa4974ab5fa080e40733ab45affda57acb7801af/images/wPg_Image_1.png](null)
 
@@ -62,9 +62,9 @@ Benefits:
 
 Start creating and publishing like a pro today!
 
-[https://gitlab.com/thinksolv/docstomarkdownpro/-/blob/2e33c8a7f41421f5120b7fa8cb5349f2ffb6060f/images/xOB_Image_1.png](null)
+[https://gitlab.com/thinksolv/docstomarkdownpro/-/blob/2e33c8a7f41421f5120b7fa8cb5349f2ffb6060f/images/xOB_Image_1.png](https://gitlab.com/thinksolv/docstomarkdownpro/-/blob/2e33c8a7f41421f5120b7fa8cb5349f2ffb6060f/images/xOB_Image_1.png)
 
-![garden](/images/yik-garden.png)
+![a computer screen shows a picture of a vineyard on thursday december 21st](/images/iG2-computer-screen-shows-picture-vineyard-thursday-december-21st.png)
 
 [https://github.com/docstomarkdown/hugo_demo/blob/main/images/znw_Image_1.png](https://github.com/docstomarkdown/hugo_demo/blob/main/images/znw_Image_1.png)
 
