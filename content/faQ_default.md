@@ -62,11 +62,7 @@ Benefits:
 
 Start creating and publishing like a pro today!
 
-[https://gitlab.com/thinksolv/docstomarkdownpro/-/blob/2e33c8a7f41421f5120b7fa8cb5349f2ffb6060f/images/xOB_Image_1.png](https://gitlab.com/thinksolv/docstomarkdownpro/-/blob/2e33c8a7f41421f5120b7fa8cb5349f2ffb6060f/images/xOB_Image_1.png)
-
 ![a computer screen shows a picture of a vineyard on thursday december 21st](/images/iG2-computer-screen-shows-picture-vineyard-thursday-december-21st.png)
-
-[https://github.com/docstomarkdown/hugo_demo/blob/main/images/znw_Image_1.png](https://github.com/docstomarkdown/hugo_demo/blob/main/images/znw_Image_1.png)
 
 Disclaimer: The information provided is for general informational purposes only. We make no warranties about the accuracy and completeness of the information. Use the information at your own risk.
 
