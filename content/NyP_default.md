@@ -20,9 +20,9 @@ Conversion & Publishing:
 
 Large Jpeg file
 
-![](/images/Cjd_Image_1.jpeg)
+![a dirt path in the middle of a forest](https://d1qrqm19u9sopz.cloudfront.net/210285/OsK-dirt-path-middle-forest.jpeg)
 
-![](/images/FcM_Image_1.jpeg)
+![a mountain range with a blue sky and white clouds](https://d1qrqm19u9sopz.cloudfront.net/210285/ecf-mountain-range-blue-sky-white-clouds.jpeg)
 
 - Quickly Add & Manage Reusable Snippets: Organize and insert boilerplate text, code, or media.
 
@@ -30,7 +30,7 @@ Large Jpeg file
 
 Image Management:
 
-![a field of tall grass with the sun shining through it](/images/Oh9-field-tall-grass-sun-shining.png)
+![a field of tall grass with the sun shining through it](https://d1qrqm19u9sopz.cloudfront.net/210285/F5P-field-tall-grass-sun-shining.png)
 
 - [https://gitlab.com/thinksolv/docstomarkdownpro/-/blob/fa4974ab5fa080e40733ab45affda57acb7801af/images/wPg_Image_1.png](null)
 
@@ -66,7 +66,7 @@ Benefits:
 
 Start creating and publishing like a pro today!
 
-![a computer screen shows a picture of a vineyard on thursday december 21st](/images/meP-computer-screen-shows-picture-vineyard-thursday-december-21st.png)
+![a computer screen shows a picture of a vineyard on thursday december 21st](https://d1qrqm19u9sopz.cloudfront.net/210285/jZe-computer-screen-shows-picture-vineyard-thursday-december-21st.png)
 
 Disclaimer: The information provided is for general informational purposes only. We make no warranties about the accuracy and completeness of the information. Use the information at your own risk.
 
