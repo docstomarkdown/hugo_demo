@@ -18,6 +18,10 @@ Conversion & Publishing:
 
 - Markdown Creator: User-friendly interface for effortless conversions.
 
+Large Jpeg file
+
+![](/images/Cjd_Image_1.jpeg)
+
 ![](/images/FcM_Image_1.jpeg)
 
 - Quickly Add & Manage Reusable Snippets: Organize and insert boilerplate text, code, or media.
