@@ -20,9 +20,9 @@ Conversion & Publishing:
 
 Large Jpeg file
 
-![a dirt path in the middle of a forest](/images/dRB-dirt-path-middle-forest.jpeg)
+![a dirt path in the middle of a forest](/images/J6r-dirt-path-middle-forest.jpeg)
 
-![a mountain range with a blue sky and white clouds](/images/DUr-mountain-range-blue-sky-white-clouds.jpeg)
+![a mountain range with a blue sky and white clouds](/images/fup-mountain-range-blue-sky-white-clouds.jpeg)
 
 - Quickly Add & Manage Reusable Snippets: Organize and insert boilerplate text, code, or media.
 
@@ -30,7 +30,7 @@ Large Jpeg file
 
 Image Management:
 
-![a field of tall grass with the sun shining through it](/images/2ZM-field-tall-grass-sun-shining.png)
+![a field of tall grass with the sun shining through it](/images/k2p-field-tall-grass-sun-shining.png)
 
 - Automatic Image Hosting on AWS Cloud:
 
@@ -64,7 +64,7 @@ Benefits:
 
 Start creating and publishing like a pro today!
 
-![a computer screen shows a picture of a vineyard on thursday december 21st](/images/fTw-computer-screen-shows-picture-vineyard-thursday-december-21st.png)
+![a computer screen shows a picture of a vineyard on thursday december 21st](/images/LDV-computer-screen-shows-picture-vineyard-thursday-december-21st.png)
 
 Disclaimer: The information provided is for general informational purposes only. We make no warranties about the accuracy and completeness of the information. Use the information at your own risk.
 
