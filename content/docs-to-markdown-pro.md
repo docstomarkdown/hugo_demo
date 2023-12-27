@@ -18,7 +18,7 @@ Conversion & Publishing:
 
 - Markdown Creator: User-friendly interface for effortless conversions.
 
-Large Jpeg file
+Large Jpeg file :https://github.com/docstomarkdown/hugo_demo/blob/main/images/Q3X-dirt-path-middle-forest.jpeg
 
 ![a dirt path in the middle of a forest](/images/Q3X-dirt-path-middle-forest.jpeg)
 
@@ -29,6 +29,8 @@ Snippets Library:
 - Boost Productivity: Streamline content creation and improve efficiency.
 
 Image Management:
+
+[https://github.com/docstomarkdown/hugo_demo/blob/main/images/2uR-field-tall-grass-sun-shining.png](null)
 
 ![a field of tall grass with the sun shining through it](/images/2uR-field-tall-grass-sun-shining.png)
 
