@@ -20,7 +20,7 @@ Conversion & Publishing:
 
 Large Jpeg file
 
-![a dirt path in the middle of a forest](https://d1qrqm19u9sopz.cloudfront.net/210285/iTQ-dirt-path-middle-forest.jpeg)
+![a dirt path in the middle of a forest](/images/Q3X-dirt-path-middle-forest.jpeg)
 
 Snippets Library:
 
@@ -30,7 +30,7 @@ Snippets Library:
 
 Image Management:
 
-![a field of tall grass with the sun shining through it](https://d1qrqm19u9sopz.cloudfront.net/210285/cbY-field-tall-grass-sun-shining.png)
+![a field of tall grass with the sun shining through it](/images/2uR-field-tall-grass-sun-shining.png)
 
 - Automatic Image Hosting on AWS Cloud:
 
