@@ -20,7 +20,7 @@ Conversion & Publishing:
 
 Large Jpeg file :https://github.com/docstomarkdown/hugo_demo/blob/main/images/Q3X-dirt-path-middle-forest.jpeg
 
-![a dirt path in the middle of a forest](/images/Q3X-dirt-path-middle-forest.jpeg)
+![a dirt path in the middle of a forest](https://d1qrqm19u9sopz.cloudfront.net/210285/BG8-dirt-path-middle-forest.jpeg)
 
 Snippets Library:
 
@@ -32,7 +32,7 @@ Image Management:
 
 [https://github.com/docstomarkdown/hugo_demo/blob/main/images/2uR-field-tall-grass-sun-shining.png](null)
 
-![a field of tall grass with the sun shining through it](/images/2uR-field-tall-grass-sun-shining.png)
+![a field of tall grass with the sun shining through it](https://d1qrqm19u9sopz.cloudfront.net/210285/QTg-field-tall-grass-sun-shining.png)
 
 - Automatic Image Hosting on AWS Cloud:
 
