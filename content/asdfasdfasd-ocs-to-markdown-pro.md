@@ -26,7 +26,7 @@ Conversion & Publishing:
 
 Large Jpeg file :https://github.com/docstomarkdown/hugo_demo/blob/main/images/7RS_Image_1.jpeg
 
-![](/images/Ufc_Image_1.jpeg)
+![tes teas](/images/Ufc_Image_1.jpeg)
 
 Snippets Library:
 
@@ -38,7 +38,7 @@ Image Management:
 
 [https://github.com/docstomarkdown/hugo_demo/blob/main/images/gwg_Image_2.png](null)
 
-![](/images/yBB_Image_2.png)
+![yes alt](/images/yBB_Image_2.png)
 
 - Automatic Image Hosting on AWS Cloud:
 
