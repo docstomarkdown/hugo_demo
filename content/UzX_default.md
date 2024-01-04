@@ -34,6 +34,8 @@ Image Management:
 
 ![yes alt](/images/1VS-yes-alt.png)
 
+![](/images/VQP_Image_3.png)
+
 - Automatic Image Hosting on AWS Cloud:
 
 - Optimize storage and access for your images.
