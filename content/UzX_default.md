@@ -20,7 +20,7 @@ Conversion & Publishing:
 
 - Markdown Creator: User-friendly interface for effortless conversions.
 
-![tes teas](/images/Mq4-tes-teas.jpeg)
+![tes teas](/images/Fmu-tes-teas.jpeg)
 
 Snippets Library:
 
@@ -32,7 +32,7 @@ Image Management:
 
 [https://github.com/docstomarkdown/hugo_demo/blob/main/images/gwg_Image_2.png](null)
 
-![yes alt](/images/tOH-yes-alt.png)
+![yes alt](/images/1VS-yes-alt.png)
 
 - Automatic Image Hosting on AWS Cloud:
 
