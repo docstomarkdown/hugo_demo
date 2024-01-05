@@ -36,7 +36,7 @@ Image Management:
 
 ## Missing Heading
 
-![large png image](/images/a9O-large-png-image.png)
+![large png image](/images/m58-large-png-image.png)
 
 - Automatic Image Hosting on AWS Cloud:
 
