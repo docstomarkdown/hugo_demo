@@ -20,7 +20,7 @@ Conversion & Publishing:
 
 - Markdown Creator: User-friendly interface for effortless conversions.
 
-![a dirt path in the middle of a forest](/images/h0h-dirt-path-middle-forest.jpeg)
+![a dirt path in the middle of a forest](/images/LTy-dirt-path-middle-forest.jpeg)
 
 Snippets Library:
 
@@ -32,11 +32,11 @@ Image Management:
 
 [https://github.com/docstomarkdown/hugo_demo/blob/main/images/gwg_Image_2.png](null)
 
-![a field of tall grass with the sun shining through it](/images/kKA-field-tall-grass-sun-shining.png)
+![a field of tall grass with the sun shining through it](/images/8Hq-field-tall-grass-sun-shining.png)
 
 ## Missing Heading
 
-![large png image](/images/N5E-large-png-image.png)
+![large png image](/images/mzl-large-png-image.png)
 
 - Automatic Image Hosting on AWS Cloud:
 
