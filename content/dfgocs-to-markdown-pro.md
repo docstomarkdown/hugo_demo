@@ -36,7 +36,7 @@ Snippets Library:
 
 ## Images feature
 
-![a field with a starry sky in the background adding this random text to find if the proper file name is being geneated with the new method. This can also be used to validate](/images/Bsr-field-starry-sky-background-adding-random-text.png)
+![a field with a starry sky in the background adding this random text to find if the proper file name is being geneated with the new method. This can also be used to validate](/images/0e6-field-starry-sky-background-adding-random-text.png)
 
 - Automatic Image Hosting on AWS Cloud:
 
